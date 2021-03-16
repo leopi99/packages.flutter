@@ -14,9 +14,9 @@ dependencies:
   synchronized: ^3.0.0
   native_pdf_renderer:
     git:
-      url: https://github.com/leopi99/packages.flutter/tree/master/packages/native_pdf_renderer
+      url: https://github.com/leopi99/packages.flutter.git
+      path: packages/native_pdf_renderer
       ref: master
-    # path: ../native_pdf_renderer
 
 
 dev_dependencies:
